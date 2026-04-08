@@ -1,42 +1,58 @@
 # 来源总表
 
-以下来源分成三组使用：节目人格、说话风格、司法事实。
+这次调研分成四组：
 
-## A. 结构参考
+- 原生采访语感
+- 节目评审语感
+- 名场面与梗
+- 都美竹相关黑梗的公共传播
 
-1. [Janlaywss/hu-chenfeng-skill](https://github.com/Janlaywss/hu-chenfeng-skill)
-用途：参考 skill 的组织方式，包括 `SKILL.md + README + references/research/` 这种透明蒸馏结构。
+## A. 原生采访语感
 
-## B. 《中国有嘻哈》时期的节目人格与公开表达
+1. [专访吴亦凡：我特别害怕丢失掉正常人的生活气息](https://ent.ifeng.com/a/20160615/42635192_0.shtml)
+用途：提炼他私下说话时的拖拍感和高频词，比如“对”“我觉得”“还好”“就是这种感觉”“都懂”这类表达。
 
-1. [吴亦凡带火中国嘻哈音乐：始于热爱 忠于使命](https://ent.chinadaily.com.cn/2017-08/30/content_31309964.htm)
-用途：提炼他在 2017 年如何把自己叙述为“懂嘻哈、要推动中国 hip-hop 主流化的人”；同时也提供了选手侧对其“专业”“有使命感”的外部评价。
+2. [吴亦凡谈流量现状：每个时代不一样 但精神不会变](https://ent.sina.com.cn/s/m/2019-11-18/doc-iihnzahi1741734.shtml)
+用途：补充他后期公开采访中的自我描述，比如“私下还是有可爱，还是OK的”“比较欢乐的人”，帮助修正“只会高冷”的单一印象。
 
-2. [《中国有嘻哈》吴亦凡精准点评 张震岳陷“崩溃”选择](https://www.chinanews.com.cn/m/yl/2017/07-22/8284754.shtml)
-用途：提炼他在节目里更重技术细节、会抓 `flow` 变化、点评偏短促直接的评审方式。
+## B. 节目评审语感
 
-3. [A Chinese flavor of rap music is flourishing as emerging musicians find their voices](https://apnews.com/article/9b8290afb920328c13a7c09147bca796)
-用途：从更后视角补充《中国有嘻哈》对中国说唱主流化的影响，并记录“Do you have freestyle?” 作为节目代表性公共记忆的外部观察。
+1. [吴亦凡的“freestyle”火了！这是什么梗？](https://www.chinanews.com.cn/m/yl/2017/06-28/8263122.shtml)
+用途：确认 `你有 freestyle 吗` 如何成为公共记忆。
 
-4. [《中国有嘻哈》吗？](https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E6%9C%89%E5%98%BB%E5%93%88%E5%90%97/a-40059995)
-用途：补充节目把 hip-hop 推向大众文化的外部舆论语境，帮助理解吴亦凡为何在节目中承担“入口型明星”的功能。
+2. [吴亦凡发自拍freestyle视频 表达嘻哈态度](https://ent.chinadaily.com.cn/2017-06/27/content_29907394.htm)
+用途：补充他主动用 freestyle 回应舆论时的姿态。
 
-## C. 都美竹事件与司法公开信息
+3. [《中国有嘻哈》吴亦凡精准点评 张震岳陷“崩溃”选择](https://www.chinanews.com.cn/m/yl/2017/07-22/8284754.shtml)
+用途：提炼评审模式里常出现的 `flow`、变化、记忆点、专业感。
 
-1. [北京警方：吴某凡因涉嫌强奸罪已被依法刑事拘留](https://www.chinanews.com/sh/2021/07-31/9533491.shtml)
-用途：确认 `2021-07-31` 刑事拘留这一节点。
+4. [《中国新说唱》今晚开播 主打词skr未播先热](https://ent.sina.com.cn/tv/zy/2018-07-14/doc-ihfhfwmv2589444.shtml)
+用途：确认 `skr` 作为吴亦凡第二代公共口头禅的传播方式。
 
-2. [北京市朝阳区人民检察院依法对犯罪嫌疑人吴某凡批准逮捕](https://www.spp.gov.cn/spp/zdgz/202108/t20210816_526842.shtml)
-用途：确认 `2021-08-16` 批准逮捕节点。
+## C. 名场面与二创梗
 
-3. [被告人吴亦凡强奸、聚众淫乱案一审宣判](https://www.weibo.com/ttarticle/p/show?id=2309404839718591529396)
-用途：确认 `2022-11-25` 一审结果和罪名。
+1. [魔性洗脑！吴亦凡开心扯面大秀方言版freestyle](https://ent.sina.com.cn/tv/zy/2017-06-28/doc-ifyhmtcf2986806.shtml)
+用途：`你看这个面它又长又宽` 的综艺源头说明。
 
-4. [被告人吴亦凡强奸、聚众淫乱案二审维持原判](https://news.cctv.com/2023/11/24/ARTIwYWpgpJoy6Yw8q7sDhxI231124.shtml)
-用途：确认 `2023-11-24` 二审驳回上诉、维持原判。
+2. [吴亦凡《大碗宽面》发展史](https://www.huxiu.com/article/300920.html)
+用途：整理 `大碗宽面` 从尴尬名场面变成自黑和解梗的过程。
+
+3. [【官方】吴亦凡《大碗宽面》MV](https://www.youtube.com/watch?v=-62atmcDMBE)
+用途：确认他后来如何主动把梗收编进作品。
+
+4. [你看这个面它又长又宽，就像这个碗它又大又圆](https://moegirl.uk/index.php?title=%E4%BD%A0%E7%9C%8B%E8%BF%99%E4%B8%AA%E9%9D%A2%E5%AE%83%E5%8F%88%E9%95%BF%E5%8F%88%E5%AE%BD%EF%BC%8C%E5%B0%B1%E5%83%8F%E8%BF%99%E4%B8%AA%E7%A2%97%E5%AE%83%E5%8F%88%E5%A4%A7%E5%8F%88%E5%9C%86&variant=zh-sg)
+用途：补充这句如何演化成模板梗和网络变体。
+
+## D. 都美竹相关黑梗的公共传播
+
+1. [我的很大你忍一下是什么梗](https://pcedu.pconline.com.cn/1434/14346925.html)
+用途：只用于确认这句在 2021 年如何作为网络黑梗传播，不用于证明其事实真实性。
+
+2. [吴签什么梗 亦凡为什么叫吴签](https://www.danmuxiu.cn/746.html)
+用途：只用于说明 `吴签` 这一公共黑梗的传播逻辑，不用于事实认定。
 
 ## 使用原则
 
-- 节目人格部分主要蒸馏“镜头中的公开人设”，不声称等于私下人格。
-- 刑案部分只引用官方通报、检方、法院和主流媒体转引。
-- 发生冲突时，以司法公开信息优先。
+- A 和 B 用来学“他本人在镜头里怎么说话”。
+- C 用来学“网友为什么会把他做成鬼畜人格”。
+- D 只用来学“黑梗怎么被公众玩开”，不把网传内容写成确定事实。

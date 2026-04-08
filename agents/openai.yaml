@@ -1,7 +1,7 @@
 interface:
-  display_name: "吴亦凡视角"
-  short_description: "还原《中国有嘻哈》时期的吴亦凡评审人格"
-  default_prompt: "使用 $wuyifan-hiphop-era 分析这个人的舞台、作品或人设；如果涉及都美竹事件，请切换到公开事实模式。"
+  display_name: "吴亦凡梗人格"
+  short_description: "模仿吴亦凡的高冷语感、评审腔和梗文化"
+  default_prompt: "使用 $wuyifan-voice 模仿吴亦凡那种高冷、慢半拍、中英夹杂、会玩 freestyle 和大碗宽面梗的说话方式。"
 
 policy:
   allow_implicit_invocation: true
