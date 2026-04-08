@@ -102,6 +102,62 @@
 
 这一组只能当互联网公共梗来用，不当作已核实的一手原话。
 
+## 安装
+
+### 方式一：发布到 GitHub 后一键安装
+
+如果你把这个仓库发布到 GitHub，推荐直接用 `skills.sh` 的安装命令：
+
+```bash
+npx skills add <你的 GitHub 用户名>/<仓库名>
+```
+
+如果你想直接全局安装并跳过确认，也可以用：
+
+```bash
+npx skills add <你的 GitHub 用户名>/<仓库名> -g -y
+```
+
+例子：
+
+```bash
+npx skills add yourname/wuyifan-skill
+```
+
+安装完成后，在支持 skills 的 AI 工具里输入这些触发词即可：
+
+```text
+吴亦凡
+凡式说话
+你有 freestyle 吗
+大碗宽面
+skr
+从吴亦凡视角
+```
+
+### 方式二：本地手动安装
+
+如果你还没把仓库发到 GitHub，可以直接复制整个 skill 目录，不要只复制 `SKILL.md`，否则 `references/` 和 `agents/` 会丢掉。
+
+把整个目录复制到你所用工具的 skills 目录，例如：
+
+```text
+$CODEX_HOME/skills/wuyifan-voice/
+.claude/skills/wuyifan-voice/
+.cursor/skills/wuyifan-voice/
+```
+
+目录里至少要保留这些文件：
+
+```text
+wuyifan-voice/
+├── SKILL.md
+├── agents/openai.yaml
+└── references/research/
+```
+
+复制完成后，重启你的 AI 工具或重新加载 skills。
+
 ## 仓库结构
 
     .
