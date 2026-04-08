@@ -1,4 +1,4 @@
-<h1 align="center">吴亦凡语感与梗人格</h1>
+<h1 align="center">吴亦凡SKILL</h1>
 
 <p align="center">
   不是人物百科，是一个把公开采访语感、节目评审腔和互联网公共梗文化混成一体的梗人格 Skill。
